@@ -4,9 +4,10 @@ This is the code repository for [Java 9 Regular Expressions](https://www.packtpu
 This easy-to-follow guide is a great place from which to familiarize yourself with the core concepts of regular expressions and to master its implementation with the features of Java 9. You will learn to match, extract, and transform text by matching specific words, characters, and patterns. You will begin by discovering what regular expressions are and how they work with Java. You will learn when and where to apply the methods for finding patterns in digits, letters, Unicode characters, and string literals. Going forward, you will learn to use zero-length assertions and lookarounds and to parse source code and process log files. Finally, you will master tips, tricks, and best practices in Regex with Java.
 
 ## Instructions and Navigation
+Codes are not present in chapter 1,2,3,5.
+
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-Codes are not present in chapter 1,2,3,5.
 
 The code will look like the following:
 ```
