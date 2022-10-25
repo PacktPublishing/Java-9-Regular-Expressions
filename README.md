@@ -31,3 +31,7 @@ The software in this book is tested on Java version 8 on Ubuntu version 16.10. H
 
 * [Design Patterns and Best Practices in Java 9](https://www.packtpub.com/application-development/design-patterns-and-best-practices-java-9?utm_source=github&utm_medium=repository&utm_campaign=9781786463593)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787288706">https://packt.link/free-ebook/9781787288706 </a> </p>
